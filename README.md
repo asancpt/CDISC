@@ -33,5 +33,13 @@
 - [CDISCQuery | a Shiny web application to search CDISC terminologies using SPARQL.](https://github.com/mokjpn/CDISCQuery)
 - [R4DSXML | R4DSXML is R package for import CDISC Dataset-XML and Define-XML as R data frame.](https://github.com/DataDrivenInc/R4DSXML)
 
+# Data Management of Clinical Trials
 
+## Medical Dictionary
 
+- MedDRA version 19.0
+- ATC Code Version 2017 <https://www.whocc.no/atc_ddd_index/>
+
+## COMODO
+
+- <https://www.comodo.com/home/email-security/free-email-certificate.php>
