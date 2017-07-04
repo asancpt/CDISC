@@ -1,5 +1,7 @@
 # CDISC
 
+![](https://hvtnews.files.wordpress.com/2013/10/5-6-originalsize.jpg)
+
 > SDTM is one of the required standards that sponsors must use as specified in the FDA’s Data Standards Catalog (see section II.C) for NDA, ANDA, and certain BLA submissions effective December 2016.
 
 ## FDA
@@ -37,7 +39,7 @@
 
 ## Medical Dictionary
 
-- MedDRA version 19.0
+- MedDRA version 19.0 <https://tools.meddra.org/wbb>
 - ATC Code Version 2017 <https://www.whocc.no/atc_ddd_index/>
 
 ## COMODO
