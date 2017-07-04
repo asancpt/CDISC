@@ -1,6 +1,24 @@
 # CDISC
 
-## File list
+## Required files
 
-- [SDTM Terminology.xls 2016-12-16](SDTM Terminology.xls) / <http://evs.nci.nih.gov/ftp1/CDISC/SDTM/SDTM%20Terminology.xls>
-- [SDTM Terminology.pdf 2016-12-16](SDTM Terminology.pdf) / <http://evs.nci.nih.gov/ftp1/CDISC/SDTM/SDTM%20Terminology.pdf>
+- `define.xml`
+
+## SDTM
+
+- [CDISC SDTM Implementation Guide 3.1.2](http://meta-x.com/cdisc/doc/SDTM%20Implementation%20Guide%20V3.1.2.pdf)
+- [CDISC SDTM Implementation Guide 3.2](https://www.cdisc.org/system/files/all/standard_category/application/pdf/sdtmig_v3.2.pdf)
+- [CDISC Terminology Webpage](https://www.cancer.gov/research/resources/terminology/cdisc)
+- [CDISC Terminology PDF](https://evs.nci.nih.gov/ftp1/CDISC/SDTM/SDTM%20Terminology.pdf)
+- [CDISC SDTM Terminology.xls 2016-12-16](SDTM Terminology.xls) / <http://evs.nci.nih.gov/ftp1/CDISC/SDTM/SDTM%20Terminology.xls>
+- [CDISC SDTM Terminology.pdf 2016-12-16](SDTM Terminology.pdf) / <http://evs.nci.nih.gov/ftp1/CDISC/SDTM/SDTM%20Terminology.pdf>
+
+## CDASH IG v2.0 & Model v1.0
+
+- CDISC CDASH Model 1.0 and CDASH Implementation Guide 2.0 : Open for PUBLIC COMMENT through 16 August 2016
+
+## R Packages
+
+- [CDISCQuery | a Shiny web application to search CDISC terminologies using SPARQL.](https://github.com/mokjpn/CDISCQuery)
+- [R4DSXML | R4DSXML is R package for import CDISC Dataset-XML and Define-XML as R data frame.](https://github.com/DataDrivenInc/R4DSXML)
+
