@@ -1,14 +1,25 @@
 # CDISC
 
+> SDTM is one of the required standards that sponsors must use as specified in the FDA’s Data Standards Catalog (see section II.C) for NDA, ANDA, and certain BLA submissions effective December 2016.
+
+## FDA
+
+- FDA Standaridzed Study Data 2014-12 <https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM292334.pdf>
+
 ## Required files
 
 - `define.xml`
 
 ## SDTM
 
-- [CDISC SDTM Implementation Guide 3.1.2](http://meta-x.com/cdisc/doc/SDTM%20Implementation%20Guide%20V3.1.2.pdf)
-- [CDISC SDTM Implementation Guide 3.2](https://www.cdisc.org/system/files/all/standard_category/application/pdf/sdtmig_v3.2.pdf)
-- [CDISC Terminology Webpage](https://www.cancer.gov/research/resources/terminology/cdisc)
+### SDTM Implementation Guide
+
+- CDISC SDTM Implementation Guide 3.2 <https://www.cdisc.org/system/files/members/standard/foundational/sdtmig/sdtmig_20v3.2_20noportfolio.pd://www.cdisc.org/system/files/members/standard/foundational/sdtmig/sdtmig_20v3.2_20noportfolio.pdf>
+- CDISC SDTM Implementation Guide 3.1.2 - no login required. <http://meta-x.com/cdisc/doc/SDTM%20Implementation%20Guide%20V3.1.2.pdf>
+
+### SDTM Terminology
+
+- CDISC Terminology <https://www.cancer.gov/research/resources/terminology/cdisc>
 - [CDISC Terminology PDF](https://evs.nci.nih.gov/ftp1/CDISC/SDTM/SDTM%20Terminology.pdf)
 - [CDISC SDTM Terminology.xls 2016-12-16](SDTM Terminology.xls) / <http://evs.nci.nih.gov/ftp1/CDISC/SDTM/SDTM%20Terminology.xls>
 - [CDISC SDTM Terminology.pdf 2016-12-16](SDTM Terminology.pdf) / <http://evs.nci.nih.gov/ftp1/CDISC/SDTM/SDTM%20Terminology.pdf>
@@ -21,4 +32,6 @@
 
 - [CDISCQuery | a Shiny web application to search CDISC terminologies using SPARQL.](https://github.com/mokjpn/CDISCQuery)
 - [R4DSXML | R4DSXML is R package for import CDISC Dataset-XML and Define-XML as R data frame.](https://github.com/DataDrivenInc/R4DSXML)
+
+
 
