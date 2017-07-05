@@ -6,10 +6,6 @@ Reference: <https://hvtnews.files.wordpress.com/2013/10/5-6-originalsize.jpg?w=5
 
 > SDTM is one of the required standards that sponsors must use as specified in the FDA’s Data Standards Catalog (see section II.C) for NDA, ANDA, and certain BLA submissions effective December 2016.
 
-## FDA
-
-- FDA Standaridzed Study Data 2014-12 <https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM292334.pdf>
-
 ## Required files
 
 - `define.xml`
@@ -18,7 +14,7 @@ Reference: <https://hvtnews.files.wordpress.com/2013/10/5-6-originalsize.jpg?w=5
 
 ### SDTM Implementation Guide
 
-- CDISC SDTM Implementation Guide 3.2 <https://www.cdisc.org/system/files/members/standard/foundational/sdtmig/sdtmig_20v3.2_20noportfolio.pd://www.cdisc.org/system/files/members/standard/foundational/sdtmig/sdtmig_20v3.2_20noportfolio.pdf>
+- CDISC SDTM Implementation Guide 3.2 <www.cdisc.org/system/files/members/standard/foundational/sdtmig/sdtmig_20v3.2_20noportfolio.pdf>
 - CDISC SDTM Implementation Guide 3.1.2 - no login required. <http://meta-x.com/cdisc/doc/SDTM%20Implementation%20Guide%20V3.1.2.pdf>
 
 ### SDTM Terminology
@@ -38,6 +34,10 @@ Reference: <https://hvtnews.files.wordpress.com/2013/10/5-6-originalsize.jpg?w=5
 - [R4DSXML | R4DSXML is R package for import CDISC Dataset-XML and Define-XML as R data frame.](https://github.com/DataDrivenInc/R4DSXML)
 
 # Data Management of Clinical Trials
+
+## FDA
+
+- FDA Standaridzed Study Data 2014-12 <https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM292334.pdf>
 
 ## Medical Dictionary
 
