@@ -1,10 +1,17 @@
-# CDISC
+# Introduction: CDISC
+
+> SDTM is one of the required standards that sponsors must use as specified in the FDA’s Data Standards Catalog (see section II.C) for NDA, ANDA, and certain BLA submissions effective December 2016.
 
 ![Figure 1. Overview of CDISC models for data standards, by study stage.](https://hvtnews.files.wordpress.com/2013/10/5-6-originalsize.jpg)
 
 Reference: <https://hvtnews.files.wordpress.com/2013/10/5-6-originalsize.jpg?w=595&h=347>
 
-> SDTM is one of the required standards that sponsors must use as specified in the FDA’s Data Standards Catalog (see section II.C) for NDA, ANDA, and certain BLA submissions effective December 2016.
+**Current Version**
+
+Name|Version
+---|---
+SDTM | v1.4
+SDTMIG | v3.2
 
 ## Required files
 
