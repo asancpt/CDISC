@@ -6,12 +6,12 @@
 
 Reference: <https://hvtnews.files.wordpress.com/2013/10/5-6-originalsize.jpg?w=595&h=347>
 
-**Current Version**
+**Current Version (as of `2018-03-14`)**
 
-Name|Version
----|---
-SDTM | v1.4
-SDTMIG | v3.2
+Name|Version|Link
+---|---|---
+SDTM | v1.6 | <https://www.cdisc.org/standards/foundational/sdtm/sdtm-v1-6>
+SDTMIG | v3.2 | <https://www.cdisc.org/standards/foundational/sdtmig>
 
 ## News
 
@@ -58,3 +58,4 @@ SDTMIG | v3.2
 ## COMODO
 
 - <https://www.comodo.com/home/email-security/free-email-certificate.php>
+
