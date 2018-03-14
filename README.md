@@ -13,6 +13,10 @@ Name|Version
 SDTM | v1.4
 SDTMIG | v3.2
 
+## News
+
+- CDISC and PhUSE MOU <http://www.phusewiki.org/wiki/images/6/67/PhUSE_CDISC_MOU_2018_to_2019.pdf>
+
 ## Required files
 
 - `define.xml`
