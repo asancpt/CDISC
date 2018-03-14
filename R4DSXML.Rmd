@@ -1,0 +1,22 @@
+# R4DSXML
+
+## dataset-xml
+
+```{r}
+# devtools::install_github("DataDrivenInc/R4DSXML/R4DSXML")
+
+library(R4DSXML)
+
+define <- system.file("extdata", "SDTM",
+                      "define2-0-0-example-sdtm(2013-11-09).xml", 
+                       package="R4DSXML"
+                       ) 
+sds <- system.file("extdata", "SDTM",
+                   "dm.xml", 
+                    package="R4DSXML"
+                    )
+
+DM <- read.dataset.xml(dataset_xml=sds, define_xml=define)
+
+knitr::kable(DM)
+```
