@@ -14,12 +14,12 @@ Reference: <https://hvtnews.files.wordpress.com/2013/10/5-6-originalsize.jpg?w=5
 - PhUSE wiki <http://www.phusewiki.org/>
 
 
-**Current Version (as of `2018-03-14`)**
+**Current Version (as of `2020-08-12`)**
 
 Name|Version|Link
 ---|---|---
-SDTM | v1.6 | <https://www.cdisc.org/standards/foundational/sdtm/sdtm-v1-6>
-SDTMIG | v3.2 | <https://www.cdisc.org/standards/foundational/sdtmig>
+SDTM | v1.8 | <https://www.cdisc.org/standards/foundational/sdtm/sdtm-v1-8>
+SDTMIG | v3.3 | <https://www.cdisc.org/standards/foundational/sdtmig/sdtmig-v3-3>
 
 # Downloads 
 
